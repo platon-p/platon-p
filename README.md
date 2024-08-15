@@ -40,19 +40,21 @@ Now I am a student at HSE, FCS, Software Engineering (BA) 🧑‍🔬
 
 ### Golang
 
-[flipside](https://github.com/platon-p/flipside) - Service for working with flash cards for memorization
+- [flipside](https://github.com/platon-p/flipside) - Service for working with flash cards for memorization
 
-[congratulations_api_go](https://github.com/platon-p/congratulations_api_go) - API for creating greeting cards written in Go
+- [congratulations_api_go](https://github.com/platon-p/congratulations_api_go) - API for creating greeting cards written in Go
 
 ### Python
 
-[smshub_py](https://github.com/platon-p/smshub_py) - Python client for Smshub API
-[django_digit_visit](https://github.com/platon-p/django_digit_visit) - Web service for creating a digital business card
-[flaskProject2](https://github.com/platon-p/flaskProject2)
+- [smshub_py](https://github.com/platon-p/smshub_py) - Python client for Smshub API
+
+- [django_digit_visit](https://github.com/platon-p/django_digit_visit) - Web service for creating a digital business card
+
+- [flaskProject2](https://github.com/platon-p/flaskProject2)
 
 ### Java/Kotlin
 
-[CongratulationsApp](https://github.com/platon-p/CongratulationsApp)
+- [CongratulationsApp](https://github.com/platon-p/CongratulationsApp)
 
 ## ⚙️ Check out my configs
 
