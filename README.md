@@ -40,32 +40,19 @@ Now I am a student at HSE, FCS, Software Engineering (BA) 🧑‍🔬
 
 ### Golang
 
-<a href="https://github.com/platon-p/flipside">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=flipside&card_width=400">
-</a>
-<a href="https://github.com/platon-p/congratulations_api_go">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=congratulations_api_go">
-</a>
+[flipside](https://github.com/platon-p/flipside) - Service for working with flash cards for memorization
+
+[congratulations_api_go](https://github.com/platon-p/congratulations_api_go) - API for creating greeting cards written in Go
 
 ### Python
 
-<a href="https://github.com/platon-p/smshub_py">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=smshub_py&card_width=400">
-</a>
-<a href="https://github.com/platon-p/django_digit_visit">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=django_digit_visit">
-</a>
-<a href="https://github.com/platon-p/flaskProject2">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=flaskProject2">
-</a>
+[smshub_py](https://github.com/platon-p/smshub_py) - Python client for Smshub API
+[django_digit_visit](https://github.com/platon-p/django_digit_visit) - Web service for creating a digital business card
+[flaskProject2](https://github.com/platon-p/flaskProject2)
 
 ### Java/Kotlin
 
-<a href="https://github.com/platon-p/CongratulationsApp">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platon-p&repo=CongratulationsApp">
-</a>
-
-(Others are private 😶‍🌫️)
+[CongratulationsApp](https://github.com/platon-p/CongratulationsApp)
 
 ## ⚙️ Check out my configs
 
